@@ -1,0 +1,9 @@
+cartopy
+cftime
+matplotlib
+numpy
+pandas
+regionmask
+scipy
+statsmodels
+xarray

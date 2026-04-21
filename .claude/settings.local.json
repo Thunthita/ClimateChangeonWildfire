@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Read(//Volumes/jubjang/Jubjang/pr/**)",
+      "Read(//Volumes/jubjang/Jubjang/**)",
+      "Bash(pip install:*)",
+      "Bash(conda install:*)",
+      "WebFetch(domain:www.sciencedirect.com)",
+      "Bash(ls /Volumes/jubjang/Jubjang/FWICMIP6/fwisa_ann_MRI-ESM2-0_ssp119*)",
+      "Bash(mv New :*)"
+    ]
+  }
+}
